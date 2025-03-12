@@ -3,6 +3,8 @@
 Este projeto é uma breve demonstração de conhecimento em automação de processo e mineração de dados!
 Não há pretenção de ser um código completo e finalizado.
 
+Projeto feito para integrar ANAPRO e arquivamento de documentos em nuvem privada.
+
 Este projeto foi desenvolvido sob demanda para a empresa Metrocasa, com o objetivo de automatizar processos repetitivos.
 
 O script realiza o download de arquivos no sistema ANAPRO e posteriormente faz o upload dos arquivos compactados para a nuvem do OneDrive, seguindo as diretrizes especificadas em uma planilha base.
